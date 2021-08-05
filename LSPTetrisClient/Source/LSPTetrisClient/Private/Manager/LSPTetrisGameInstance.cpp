@@ -11,5 +11,4 @@ void ULSPTetrisGameInstance::ConnectDs(FString ip)
 
 void ULSPTetrisGameInstance::Print(FString msg)
 {
-	if(Authority)
 }
